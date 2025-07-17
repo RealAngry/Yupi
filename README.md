@@ -100,6 +100,6 @@ All commands are available with both slash (`/`) and prefix (`!`) usage:
 - Made with ❤️ by **Angry**
 - GitHub: `https://github.com/RealAngry`
 - Invite Yupi: `https://discord.com/oauth2/authorize?client_id=1348595265346732033`
-- Support: `[https://discord.gg/YOURSUPPORT](https://discord.gg/BuS4ZpTpfu)`
+- Support: `https://discord.gg/BuS4ZpTpfu`
 
 EOF
